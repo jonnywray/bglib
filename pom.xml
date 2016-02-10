@@ -36,6 +36,7 @@
   
   <modules>
         <module>bglib-protocol-1.0.3-43</module>
+	<module>bglib-protocol-1.1.0-55Beta</module>
         <module>bglib-samples</module>
         <module>bglib-gui</module>
   </modules>
